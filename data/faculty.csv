@@ -1,0 +1,102 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6
+Name,University,Department,Research_Areas,Skills,Profile_URL
+Andrew Ng,Stanford University,Computer Science,Machine Learning,"Deep Learning, Computer Vision, AI Education",https://cs.stanford.edu/~ang/
+Fei-Fei Li,Stanford University,Computer Science,Computer Vision,"Deep Learning, AI + Healthcare, Cognitive Neuroscience",https://profiles.stanford.edu/fei-fei-li
+Christopher Manning,Stanford University,Computer Science and Linguistics,Natural Language Processing,"Transformers, Word Vectors, Machine Translation",https://nlp.stanford.edu/manning/
+Chelsea Finn,Stanford University,Computer Science,Robotics,"Meta-Learning, Deep RL, Robotic Manipulation",https://ai.stanford.edu/~cbfinn/
+Percy Liang,Stanford University,Computer Science,Natural Language Processing,"Robustness, Machine Learning, Foundation Models",https://cs.stanford.edu/~pliang/
+Jure Leskovec,Stanford University,Computer Science,Data Science,"Graph Neural Networks, Data Mining, Social Network Analysis",https://cs.stanford.edu/~jure/
+Stefano Ermon,Stanford University,Computer Science,Machine Learning,"Generative Modeling, Diffusion Models, AI for Sustainability",https://cs.stanford.edu/~ermon/
+Dan Jurafsky,Stanford University,Computer Science and Linguistics,Natural Language Processing,"Speech Processing, Dialogue Systems, Computational Linguistics",https://web.stanford.edu/~jurafsky/
+Silvio Savarese,Stanford University,Computer Science,Computer Vision,"3D Reconstruction, Object Recognition, Scene Understanding",https://profiles.stanford.edu/silvio-savarese
+Carlos Guestrin,Stanford University,Computer Science,Machine Learning,"MLOps, Explainable AI, Systems for ML",https://profiles.stanford.edu/carlos-guestrin
+Emma Brunskill,Stanford University,Computer Science,Reinforcement Learning,"Reinforcement Learning, Healthcare AI, Educational Technology",https://cs.stanford.edu/~ebrun/
+Jeannette Bohg,Stanford University,Computer Science,Robotics,"Robotic Manipulation, Perception, Computer Vision",https://profiles.stanford.edu/jeannette-bohg
+Christopher Re,Stanford University,Computer Science,Machine Learning,"Foundation Models, Snorkel, Hardware-Efficient AI",https://cs.stanford.edu/~chrismre/
+Daniela Rus,MIT,EECS,Robotics,"Autonomous Vehicles, Control Theory, Distributed Systems",https://www.csail.mit.edu/person/daniela-rus
+Regina Barzilay,MIT,EECS,Natural Language Processing,"AI for Oncology, NLP, Drug Discovery",https://www.csail.mit.edu/person/regina-barzilay
+Tommi Jaakkola,MIT,EECS,Machine Learning,"Graphical Models, Deep Learning, Generative Chemistry",https://www.csail.mit.edu/person/tommi-jaakkola
+Dina Katabi,MIT,EECS,Machine Learning,"Wireless Sensing, Digital Health, Signal Processing",https://www.csail.mit.edu/person/dina-katabi
+Antonio Torralba,MIT,EECS,Computer Vision,"Object Recognition, Dataset Bias, Scene Understanding",https://www.csail.mit.edu/person/antonio-torralba
+Phillip Isola,MIT,EECS,Computer Vision,"Generative Models, Contrastive Learning, Representation Learning",https://www.csail.mit.edu/person/phillip-isola
+Pulkit Agrawal,MIT,EECS,Robotics,"Reinforcement Learning, Motor Control, Computer Vision",https://www.csail.mit.edu/person/pulkit-agrawal
+Leslie Pack Kaelbling,MIT,EECS,Robotics,"Integrated AI, Motion Planning, Reinforcement Learning",https://www.csail.mit.edu/person/leslie-pack-kaelbling
+Tomas Lozano-Perez,MIT,EECS,Robotics,"Geometric Algorithms, Robotic Grasping, Motion Planning",https://www.csail.mit.edu/person/tomas-lozano-perez
+Aleksander Madry,MIT,EECS,Machine Learning,"Adversarial Robustness, Optimization, Trustworthy ML",https://www.csail.mit.edu/person/aleksander-madry
+Tamara Broderick,MIT,EECS,Machine Learning,"Bayesian Inference, Nonparametric Statistics, Scalable ML",https://www.csail.mit.edu/person/tamara-broderick
+Caroline Uhler,MIT,EECS and IDSS,Computational Biology,"Causal Inference, Genomics, Spatial Transcriptomics",https://www.csail.mit.edu/person/caroline-uhler
+Jacob Andreas,MIT,EECS,Natural Language Processing,"Compositional Semantics, Interpretability, Language Models",https://www.csail.mit.edu/person/jacob-andreas
+Ruslan Salakhutdinov,Carnegie Mellon University,Machine Learning Department,Machine Learning,"Deep Learning, Generative Models, Deep RL",https://www.cs.cmu.edu/~rsalakhu/
+Tuomas Sandholm,Carnegie Mellon University,Computer Science Department,Optimization,"Game Theory, Computational Game Theory, Market Design",https://www.cs.cmu.edu/~sandholm/
+Abhinav Gupta,Carnegie Mellon University,Robotics Institute,Computer Vision,"Self-Supervised Learning, Computer Vision, Robotic Grasping",https://www.cs.cmu.edu/~abhinavg/
+Louis-Philippe Morency,Carnegie Mellon University,Language Technologies Institute,Machine Learning,"Multimodal ML, Affective Computing, Natural Language Processing",https://www.cs.cmu.edu/~morency/
+Yonatan Bisk,Carnegie Mellon University,Language Technologies Institute,Natural Language Processing,"Grounded Language, Embodied AI, Robotics",https://www.cs.cmu.edu/~ybisk/
+Graham Neubig,Carnegie Mellon University,Language Technologies Institute,Natural Language Processing,"Machine Translation, Large Language Models, Speech Processing",https://www.cs.cmu.edu/~gneubig/
+Martial Hebert,Carnegie Mellon University,Robotics Institute,Computer Vision,"Autonomous Vehicles, Object Recognition, Scene Analysis",https://www.cs.cmu.edu/~hebert/
+Katia Sycara,Carnegie Mellon University,Robotics Institute,Artificial Intelligence,"Multi-Agent Systems, Human-Robot Interaction, Decentralized Planning",https://www.cs.cmu.edu/~sycara/
+Chris Atkeson,Carnegie Mellon University,Robotics Institute,Robotics,"Humanoid Robots, Trajectory Optimization, Machine Learning",https://www.cs.cmu.edu/~cga/
+David Held,Carnegie Mellon University,Robotics Institute,Robotics,"Robotic Manipulation, Deep Reinforcement Learning, Computer Vision",https://www.cs.cmu.edu/~dheld/
+Eric Xing,Carnegie Mellon University,Machine Learning Department,Machine Learning,"Distributed ML Systems, Computational Biology, Graphical Models",https://www.cs.cmu.edu/~epxing/
+Zack Lipton,Carnegie Mellon University,Machine Learning Department,Machine Learning,"Trustworthy ML, Healthcare AI, Natural Language Processing",https://www.cs.cmu.edu/~zlipton/
+Aarti Singh,Carnegie Mellon University,Machine Learning Department,Machine Learning,"Statistical Theory, Nonparametric Estimation, Active Learning",https://www.cs.cmu.edu/~aartisingh/
+Sergey Levine,UC Berkeley,EECS,Reinforcement Learning,"Deep RL, Robotic Learning, Computer Vision",https://people.eecs.berkeley.edu/~svlevine/
+Michael I. Jordan,UC Berkeley,EECS and Statistics,Machine Learning,"Optimization, Variational Inference, Bayesian Nonparametrics",https://people.eecs.berkeley.edu/~jordan/
+Jitendra Malik,UC Berkeley,EECS,Computer Vision,"Image Segmentation, Robotic Locomotion, Computational Geometry",https://people.eecs.berkeley.edu/~malik/
+Dan Klein,UC Berkeley,EECS,Natural Language Processing,"Syntactic Parsing, Machine Translation, Unsupervised Learning",https://people.eecs.berkeley.edu/~klein/
+Trevor Darrell,UC Berkeley,EECS,Computer Vision,"Domain Adaptation, Multimodal AI, Autonomous Driving",https://people.eecs.berkeley.edu/~trevor/
+Alexei Efros,UC Berkeley,EECS,Computer Vision,"Image Synthesis, Self-Supervised Learning, Graphics",https://people.eecs.berkeley.edu/~efros/
+Ion Stoica,UC Berkeley,EECS,Data Science,"Distributed Systems, ML Systems, Ray Framework",https://people.eecs.berkeley.edu/~istoica/
+Ken Goldberg,UC Berkeley,EECS and IEOR,Robotics,"Robotic Grasping, Automation, Surgical Robotics",https://people.eecs.berkeley.edu/~goldberg/
+Pieter Abbeel,UC Berkeley,EECS,Robotics,"Deep RL, Robotic Manipulation, Unsupervised Learning",https://people.eecs.berkeley.edu/~pabbeel/
+Joseph E. Gonzalez,UC Berkeley,EECS,Data Science,"MLOps, Distributed Systems, Graph Analytics",https://people.eecs.berkeley.edu/~jegonzal/
+Anca Dragan,UC Berkeley,EECS,Robotics,"Human-Robot Interaction, Optimal Control, Assistive Robotics",https://people.eecs.berkeley.edu/~anca/
+Stuart Russell,UC Berkeley,EECS,Artificial Intelligence,"AI Safety, Probabilistic Models, Multi-Agent Systems",https://people.eecs.berkeley.edu/~russell/
+Benjamin Recht,UC Berkeley,EECS,Optimization,"Optimization, Control Theory, Statistical Learning Theory",https://people.eecs.berkeley.edu/~brecht/
+Dhruv Batra,Georgia Tech,Interactive Computing,Computer Vision,"Embodied AI, Visual Question Answering, Deep Learning",https://www.cc.gatech.edu/~dbatra/
+Devi Parikh,Georgia Tech,Interactive Computing,Computer Vision,"Multimodal AI, Generative Art, Visual Commonsense",https://www.cc.gatech.edu/~parikh/
+Sonia Chernova,Georgia Tech,Interactive Computing,Robotics,"Human-Robot Interaction, Semantic Reasoning, Mobile Manipulation",https://www.cc.gatech.edu/~schernova/
+Irfan Essa,Georgia Tech,Interactive Computing,Computer Vision,"Video Analysis, Computational Photography, Face Recognition",https://www.cc.gatech.edu/~irfan/
+Mark Riedl,Georgia Tech,Interactive Computing,Artificial Intelligence,"Computational Creativity, Automated Storytelling, Game AI",https://www.cc.gatech.edu/~riedl/
+Judy Hoffman,Georgia Tech,Interactive Computing,Computer Vision,"Domain Adaptation, Robust ML, Transfer Learning",https://www.cc.gatech.edu/~judy/
+Zsolt Kira,Georgia Tech,Interactive Computing,Computer Vision,"Deep Learning, Few-shot Learning, Object Detection",https://www.cc.gatech.edu/~zkira/
+Chao Zhang,Georgia Tech,Computational Science and Engineering,Machine Learning,"Data Mining, Text Mining, Weak Supervision",https://www.cc.gatech.edu/~czhang/
+Sehoon Ha,Georgia Tech,Interactive Computing,Robotics,"Physics-based Animation, Reinforcement Learning, Locomotion",https://www.cc.gatech.edu/~sha/
+Polo Chau,Georgia Tech,Computational Science and Engineering,Data Science,"Data Visualization, Interactive Data Mining, Human-AI Interaction",https://www.cc.gatech.edu/~dchau/
+Alan Ritter,Georgia Tech,Interactive Computing,Natural Language Processing,"Information Extraction, Twitter Analysis, Machine Learning",https://www.cc.gatech.edu/~aritter/
+Srinivas Aluru,Georgia Tech,Computational Science and Engineering,Computational Biology,"High-Performance Computing, Bioinformatics, Genomics",https://www.cc.gatech.edu/~aluru/
+Seth Hutchinson,Georgia Tech,Interactive Computing,Robotics,"Visual Servo Control, Planning, Kinematics",https://www.cc.gatech.edu/~shutchinson/
+Chiranjib Bhattacharyya,IISc Bangalore,CSA,Machine Learning,"Convex Optimization, Support Vector Machines, Kernel Methods",https://www.csa.iisc.ac.in/~chiru/
+Shalabh Bhatnagar,IISc Bangalore,CSA,Optimization,"Reinforcement Learning, Stochastic Optimization, Simulation-Based Optimization",https://www.csa.iisc.ac.in/~shalabh/
+Partha Talukdar,IISc Bangalore,CDS,Natural Language Processing,"Knowledge Graphs, Information Extraction, Machine Learning",https://cds.iisc.ac.in/faculty/ppt/
+Anirban Chakraborty,IISc Bangalore,CDS,Computer Vision,"Visual Surveillance, Deep Learning, Domain Adaptation",https://cds.iisc.ac.in/faculty/anirban/
+R. Venkatesh Babu,IISc Bangalore,CDS,Computer Vision,"Video Processing, Object Detection, Network Compression",https://cds.iisc.ac.in/faculty/venky/
+Phaneendra K. Yalavarthy,IISc Bangalore,CDS,Data Science,"Medical Imaging, Inverse Problems, Optimization",https://cds.iisc.ac.in/faculty/phani/
+Ambedkar Dukkipati,IISc Bangalore,CSA,Machine Learning,"Information Geometry, Spectral Clustering, Network Analysis",https://www.csa.iisc.ac.in/~ambedkar/
+Anand Louis,IISc Bangalore,CSA,Optimization,"Approximation Algorithms, Graph Partitioning, Spectral Methods",https://www.csa.iisc.ac.in/~anandl/
+Vijay Natarajan,IISc Bangalore,CSA,Data Science,"Scientific Visualization, Computational Topology, Geometric Modeling",https://www.csa.iisc.ac.in/~vijayn/
+Aditya Kanade,IISc Bangalore,CSA,Artificial Intelligence,"AI for Software Engineering, Program Analysis, Deep Learning",https://www.csa.iisc.ac.in/~kanade/
+Debnath Pal,IISc Bangalore,CDS,Computational Biology,"Bioinformatics, Structural Biology, Protein Dynamics",https://cds.iisc.ac.in/faculty/dpal/
+K. V. S. Hari,IISc Bangalore,ECE,Data Science,"Array Signal Processing, Sparse Signal Recovery, Assistive Robotics",https://ece.iisc.ac.in/~kvshari/
+C. V. Jawahar,IIIT Hyderabad,CVIT,Computer Vision,"Document Image Analysis, Video Analytics, Deep Learning",https://faculty.iiit.ac.in/~jawahar/
+P. J. Narayanan,IIIT Hyderabad,CVIT,Computer Vision,"Computer Graphics, Parallel Computing, 3D Reconstruction",https://faculty.iiit.ac.in/~pjn/
+Anoop Namboodiri,IIIT Hyderabad,CVIT,Computer Vision,"Biometrics, Image Processing, Pattern Recognition",https://faculty.iiit.ac.in/~anoop/
+Vineet Gandhi,IIIT Hyderabad,CVIT,Computer Vision,"Computational Photography, Autonomous Navigation, Video Editing",https://faculty.iiit.ac.in/~vineet.gandhi/
+Deva Priyakumar,IIIT Hyderabad,CCNSB,Computational Biology,"Bioinformatics, Molecular Dynamics, Machine Learning",https://faculty.iiit.ac.in/~deva/
+Manish Shrivastava,IIIT Hyderabad,LTRC,Natural Language Processing,"Machine Translation, Information Extraction, Dependency Parsing",https://faculty.iiit.ac.in/~m.shrivastava/
+Dipti Misra Sharma,IIIT Hyderabad,LTRC,Natural Language Processing,"Machine Translation, Corpus Linguistics, Discourse Analysis",https://faculty.iiit.ac.in/~dipti/
+K. Madhava Krishna,IIIT Hyderabad,RRC,Robotics,"Mobile Robotics, Motion Planning, Multi-Robot Systems",https://faculty.iiit.ac.in/~mkrishna/
+Praveen Paruchuri,IIIT Hyderabad,Iis,Artificial Intelligence,"Multi-Agent Systems, Computational Game Theory, AI Safety",https://faculty.iiit.ac.in/~praveen.p/
+Sujit Gujar,IIIT Hyderabad,Iis,Machine Learning,"Game Theory, Mechanism Design, Blockchain Auctions",https://faculty.iiit.ac.in/~sujit.gujar/
+Radhika Mamidi,IIIT Hyderabad,LTRC,Natural Language Processing,"Computational Linguistics, Cognitive Science, Sentiment Analysis",https://faculty.iiit.ac.in/~radhika.mamidi/
+Vikram Pudi,IIIT Hyderabad,Data Sciences Analytics,Data Science,"Data Mining, Pattern Mining, Classification",https://faculty.iiit.ac.in/~vikram/
+Sunita Sarawagi,IIT Bombay,CSE,Machine Learning,"Data Mining, Information Extraction, Structured Prediction",https://www.cse.iitb.ac.in/~sunita/
+Soumen Chakrabarti,IIT Bombay,CSE,Data Science,"Web Search, Graph Mining, Information Retrieval",https://www.cse.iitb.ac.in/~soumen/
+Pushpak Bhattacharyya,IIT Bombay,CSE,Natural Language Processing,"Machine Translation, Sentiment Analysis, Computational Linguistics",https://www.cse.iitb.ac.in/~pb/
+Shivaram Kalyanakrishnan,IIT Bombay,CSE,Reinforcement Learning,"Multi-agent Systems, Multi-armed Bandits, Robotics",https://www.cse.iitb.ac.in/~shivaram/
+Mausam,IIT Delhi,CSE,Natural Language Processing,"Automated Planning, Markov Decision Processes, Information Extraction",https://www.cse.iitd.ac.in/~mausam/
+Parag Singla,IIT Delhi,CSE,Machine Learning,"Neuro-Symbolic AI, Probabilistic Graphical Models, Statistical Relational AI",https://www.cse.iitd.ac.in/~parags/
+Chetan Arora,IIT Delhi,CSE,Computer Vision,"Image Processing, Object Detection, Video Segmentation",https://www.cse.iitd.ac.in/~chetan/
+Balaraman Ravindran,IIT Madras,CSE,Reinforcement Learning,"Deep RL, Graph Neural Networks, Social Network Analysis",https://www.cse.iitm.ac.in/~ravi/
+Mitesh M. Khapra,IIT Madras,CSE,Natural Language Processing,"Deep Learning, Machine Translation, Multimodal AI",https://www.cse.iitm.ac.in/~miteshk/
+Harish Guruprasad,IIT Madras,CSE,Machine Learning,"Learning Theory, Extreme Classification, Convex Optimization",https://www.cse.iitm.ac.in/~harish/
+Piyush Rai,IIT Kanpur,CSE,Machine Learning,"Bayesian Statistics, Topic Models, Nonparametric Inference",https://www.cse.iitk.ac.in/~piyush/
